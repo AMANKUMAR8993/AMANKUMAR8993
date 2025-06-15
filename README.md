@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me
-- INTERNSHIP  
+- SOFTWARE ENGINEER
 - Reach me with Email ID: [amankumar8993kumar@gmail.com](mailto:amankumar8993kumar@gmail.com)
 
 ---
