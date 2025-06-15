@@ -41,14 +41,14 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday1080&show_icons=true&theme=radical" alt="Abhyuday's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMANKUMAR8993&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhyuday1080&theme=radical" alt="Abhyuday's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKUMAR8993&theme=radical" alt="Aman's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhyuday1080&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANKUMAR8993&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
