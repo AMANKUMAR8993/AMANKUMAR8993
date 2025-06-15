@@ -35,3 +35,20 @@
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhyuday1080&show_icons=true&theme=radical" alt="Abhyuday's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhyuday1080&theme=radical" alt="Abhyuday's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhyuday1080&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
