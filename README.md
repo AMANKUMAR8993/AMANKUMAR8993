@@ -52,3 +52,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANKUMAR8993&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+
+##  Featured Repositories
+
+Here are some of my highlighted works:
+
+### 🔹 [PORTFOLIO-WEBSITE](https://github.com/AMANKUMAR8993/PORTFOLIO-WEBSITE)
+> A short description of what it does, tools used, etc.
+
+### 🔹 [X-O](https://github.com/AMANKUMAR8993/X-O)
+> A short description of the repository.
+
+### 🔹 [Social Media App Using Mern Stack](https://github.com/AMANKUMAR8993/Social Media App Using Mern Stack)
+
