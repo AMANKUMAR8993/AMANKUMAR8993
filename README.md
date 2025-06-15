@@ -63,5 +63,5 @@ Here are some of my highlighted works:
 ### 🔹 [X-O](https://github.com/AMANKUMAR8993/X-O)
 > A short description of the repository.
 
-### 🔹 [Social Media App Using Mern Stack](https://github.com/AMANKUMAR8993/Social Media App Using Mern Stack)
+### 🔹 [social-media-using-mern-](https://github.com/AMANKUMAR8993/social-media-using-mern-)
 
