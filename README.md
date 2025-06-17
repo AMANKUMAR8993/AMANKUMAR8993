@@ -28,7 +28,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
