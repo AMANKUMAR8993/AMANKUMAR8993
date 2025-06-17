@@ -4,6 +4,7 @@
 
 ## 👨‍💻 About Me
 - SOFTWARE ENGINEER
+- currently working on MERN technology
 - Reach me with Email ID: [amankumar8993kumar@gmail.com](mailto:amankumar8993kumar@gmail.com)
 
 ---
